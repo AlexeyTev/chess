@@ -44,5 +44,5 @@ allSquares.forEach(square =>{
 })
 
 function dragStart(e){
-   console.log(e);
+   
 }
